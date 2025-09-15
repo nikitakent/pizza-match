@@ -2,6 +2,8 @@
 
 
 ✨✨✨✨✨✨YOUTUBE VIDEO DEMO: https://youtu.be/UKjAbD4F6YM ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+
 Ever wondered what kind of pizza you’d be if you weren’t human? This app is a life-changing quiz that helps you find out. Forget MBTI quizzes. The pizza questionnaire generates the kind of pizza you are based on an optimised set of questions. after sampling three individuals, we concluded that the pizza quiz is formally verified and will accurately determine the type of pizza you would be if you were a pizza and not a human
 
 Once you’ve discovered your inner pizza, you can even mint it as an NFT on the Japan Smart Chain Kaigan testnet. Low fees, 6-second blocks, and formally prove your pizza type to potential lovers.
