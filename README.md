@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# 🍕🌸🌸 Formally Verified Pizza Quiz App  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ever wondered what kind of pizza you’d be if you weren’t human? This app is a life-changing quiz that helps you find out. Forget MBTI quizzes. The pizza questionnaire generates the kind of pizza you are based on an optimised set of questions. after sampling three individuals, we concluded that the pizza quiz is formally verified and will accurately determine the type of pizza you would be if you were a pizza and not a human
 
-## Available Scripts
+Once you’ve discovered your inner pizza, you can even mint it as an NFT on the Japan Smart Chain Kaigan testnet. Low fees, 6-second blocks, and formally prove your pizza type to potential lovers.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+──────── ✦ ✦ ✦ ────────  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌸 Features  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Pizza Personality Quiz** – Answer a handful of questions and find out your pizza match.  
+- **Six Pizza Outcomes** – You’ll be paired with one of these classics:  
+  - 🍃 **Margherita** – Tomato, mozzarella, basil.  
+  - 🌊 **Romana** – Tomato, mozzarella, anchovies, capers, oregano.  
+  - 🔥 **Diavola** – Tomato, mozzarella, spicy salami (sometimes chili).  
+  - 🧀 **5 Formaggi** – A dreamy mix of five cheeses.  
+  - 🌙 **Puttanesca** – Tomato, olives, capers, anchovies, garlic, oregano.  
+  - 🍅 **Marinara** – Tomato, garlic, oregano (no cheese).  
+- **NFT Minting** – Mint your result as an NFT on Kaigan (6-second block time, tiny gas fees).  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+──────── ✦ ✦ ✦ ────────  
 
-### `npm run build`
+## 🛠️ Installation  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone the repo and install dependencies:  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/your-username/react-pizza-app.git
+cd react-pizza-app
+npm install
+````
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+──────── ✦ ✦ ✦ ────────
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📜 Scripts
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* **Start the app**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  ```bash
+  npm start
+  ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* **Build for production**
 
-## Learn More
+  ```bash
+  npm run build
+  ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* **Run tests**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  ```bash
+  npm test
+  ```
 
-### Code Splitting
+* **Eject config (advanced use only)**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  ```bash
+  npm run eject
+  ```
 
-### Analyzing the Bundle Size
+* **Deploy with Wrangler**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  ```bash
+  npm run deploy
+  ```
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+──────── ✦ ✦ ✦ ────────
 
-### Advanced Configuration
+## 🌈 Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+To publish your pizza quiz online, just run:
 
-### Deployment
+```bash
+npm run deploy
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+──────── ✦ ✦ ✦ ────────
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 💖 Why This Exists
+
+We identified an important market gap and have confirmed this app has PMF.
+
+---
+
+──────── ✦ ✦ ✦ ────────
+
+## 📄 License
+
+MIT License © 2025
+
